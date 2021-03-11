@@ -17,6 +17,7 @@ My analysis was done using ArcGIS Pro. The variables I assessed were the followi
 - Number of bus stops per census tract
 - Population weighted centroids (PWCs) and the distance toward the closest Park and Ride
 - Railways in King county
+
 I calculated the number of bus stops per census tract by intersecting the bus stop
 points with the census tracts. The PWCs were calculated by using the population field
 in the census tract data to find the mean centers. Afterwards, I did a spatial join
